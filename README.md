@@ -4,7 +4,7 @@
   - Terraform, Ansible, Jenkins, Puppet
   - AWS, Azure, GCP
   - Python, GO, PowerShell, C#
-  - Git, DevOps strategies, CI/CD pipeline, Docker, Kubernetes, Linux
+  - Git, DevOps strategies, CI/CD pipelines, Docker, Kubernetes, Linux
 - 📫 How to reach me rene@hungerbuhler.ch
 
 <!---
